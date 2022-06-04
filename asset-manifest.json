@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gastrodeploy/static/css/main.16eb8b80.chunk.css",
+    "main.js": "/gastrodeploy/static/js/main.c809454b.chunk.js",
+    "main.js.map": "/gastrodeploy/static/js/main.c809454b.chunk.js.map",
+    "runtime-main.js": "/gastrodeploy/static/js/runtime-main.695f275b.js",
+    "runtime-main.js.map": "/gastrodeploy/static/js/runtime-main.695f275b.js.map",
+    "static/js/2.a2461b66.chunk.js": "/gastrodeploy/static/js/2.a2461b66.chunk.js",
+    "static/js/2.a2461b66.chunk.js.map": "/gastrodeploy/static/js/2.a2461b66.chunk.js.map",
+    "index.html": "/gastrodeploy/index.html",
+    "precache-manifest.734b56f4fa4a358cc25a5171e73379fa.js": "/gastrodeploy/precache-manifest.734b56f4fa4a358cc25a5171e73379fa.js",
+    "service-worker.js": "/gastrodeploy/service-worker.js",
+    "static/css/main.16eb8b80.chunk.css.map": "/gastrodeploy/static/css/main.16eb8b80.chunk.css.map",
+    "static/js/2.a2461b66.chunk.js.LICENSE.txt": "/gastrodeploy/static/js/2.a2461b66.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/gastrodeploy/static/media/tartef.cc5b8f57.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.695f275b.js",
+    "static/js/2.a2461b66.chunk.js",
+    "static/css/main.16eb8b80.chunk.css",
+    "static/js/main.c809454b.chunk.js"
+  ]
+}
